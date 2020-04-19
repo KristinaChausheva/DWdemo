@@ -4,7 +4,7 @@ title: demoSV
 email: k.chausheva@gmail.com
 phone-number: +359883222003
 description: demo
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "DWdemo/" # the subpath of your site, e.g. /blog
 url: "" 
 github_username:  KristinaChausheva
 destination: docs
